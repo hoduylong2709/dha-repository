@@ -1,0 +1,25 @@
+.timer {
+  border: 1px solid #6d6d6d;
+  border-radius: 4px;
+
+  padding: 12px 24px;
+  text-align: left;
+  margin-top: 16px;
+}
+
+.timer__title {
+}
+.timer__project {
+}
+
+.timer__time {
+}
+
+.timer__button-group {
+}
+
+.timer label {
+}
+
+.timer input {
+}

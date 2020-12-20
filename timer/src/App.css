@@ -1,0 +1,36 @@
+.app {
+  text-align: center;
+}
+
+.app__title {
+  font-size: 24px;
+  font-weight: bold;
+
+  margin: 24px;
+}
+
+.app__body {
+  max-width: 320px;
+  margin: auto;
+}
+
+.timer__title,
+.timer__project,
+.timer__time {
+  text-align: center;
+  margin: 5px;
+}
+
+.timer__button-group {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+}
+
+.button {
+  margin: 5px;
+}
+
+.course-info {
+  display: grid;
+  margin: 10px;
+}
